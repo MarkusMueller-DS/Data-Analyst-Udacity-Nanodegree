@@ -18,4 +18,4 @@ Tha analyzed data had some limitations, which were taken care of in some aspects
 ### Files
 - Investigate_gun_permit.ipynb: Jupyter Notebook with python code
 - U.S. Census Data.csv: Dataset with US Census data
-- nics-firearm-background-checks.csv: Dataset with the backgroundcheck data from th FBI
+- nics-firearm-background-checks.csv: Dataset with the background check data from th FBI
