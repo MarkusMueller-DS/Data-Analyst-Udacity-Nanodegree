@@ -21,6 +21,6 @@ The average duration on the bike is for Customers 5 minutes longer than for Subs
 
 ## Resources:
 - https://en.wikipedia.org/wiki/Bay_Wheels
-- https://stackoverflow.com/questions/16074392/getting-vertical-gridlines-to- appear-in-line-plot-in-matplotlib
-- https://stackoverflow.com/questions/58274401/importing-multiple-csv-files- into-pandas-and-merge-them-into-one-dataframe
-- https://pandas.pydata.org/pandas- docs/stable/reference/api/pandas.DataFrame.info.html
+- https://stackoverflow.com/questions/16074392/getting-vertical-gridlines-to-appear-in-line-plot-in-matplotlib
+- https://stackoverflow.com/questions/58274401/importing-multiple-csv-files-into-pandas-and-merge-them-into-one-dataframe
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.info.html
