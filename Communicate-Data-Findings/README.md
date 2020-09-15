@@ -19,6 +19,13 @@ comparison between user types, since outliers influence means.
 The bike rental system gets a lot more usage from subscribers than from customers, this is most likely due to the reason that the service is used by people who are commuting to work and therefore subscribe to the service to enhance ease of use. It becomes obvious, when looking at the different usage patterns across the week. Customers use the service every day, whereas subscribers use it most frequently on workdays at 8 a.m. and 5 p.m., which are the busiest hours in the day for both user types. In general people use the service more on workdays than on weekends. But this is due to the fact that subscribers are outnumbering customers. For Customers the usage is the same on weekends and workdays, but the time spend on a bike is higher on weekends than on workdays. This is also true for subscribers but not in the same ratio, which is higher for customers.
 The average duration on the bike is for Customers 5 minutes longer than for Subscribers which have an average duration of 11 minutes. Regarding the usage duration, subscribers are driving the same amount every workday, whereas for customers the duration varies from workday to workday and increase on the weekend.
 
+
+
+## Example Visualisations
+![](charts/usage_per_hour_day.png)
+
+![](charts/duration_of_trips.png)
+
 ## Resources:
 - https://en.wikipedia.org/wiki/Bay_Wheels
 - https://stackoverflow.com/questions/16074392/getting-vertical-gridlines-to-appear-in-line-plot-in-matplotlib
