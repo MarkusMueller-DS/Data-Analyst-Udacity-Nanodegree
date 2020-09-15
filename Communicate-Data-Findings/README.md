@@ -1,4 +1,4 @@
-# Bay Wheels Data 2019 Data Exploration and Visualization
+# Bay Wheels Data 2019 Data Exploration and Visualisation
 ##### by Markus Müller
 
 This is the final project from the Data Analyst Nanodegree from Udacity.
